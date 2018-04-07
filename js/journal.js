@@ -1,5 +1,5 @@
 
-$(window).load(function() {
+$(document).ready(function() {
 
   $("#development").addClass('activeButton');
 
